@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Saniya Talmale</h1>
+<h3 align="center">Aspiring DevOps & Cloud Engineer | AWS | Linux | Terraform | Docker | Jenkins | GitHub | Kubernetes | Python</h3>
 
-<!--
-**saniyatalmale/saniyatalmale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **AWS, DevOps Tools, Terraform, and Kubernetes**
+- 💼 Hands-on practice with **EC2, S3, IAM, EKS, Docker, Jenkins Pipelines**
+- 🛠️ I’m currently working on projects like **Mario Game Deployment on AWS EKS using Jenkins CI/CD**
+- 💡 I'm interested in building **production-ready DevOps pipelines**
+- 🔭 Looking for **internships or entry-level roles** in Cloud & DevOps
+- 👨‍💻 All my projects are available at [GitHub/saniyatalmale](https://github.com/saniyatalmale)
+- 📫 Reach me at: **saniyatalmale@gmail.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technologies & Tools
+![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-%232C8EBB?style=flat&logo=linux&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-%235835CC?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326ce5?style=flat&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-%23F05033?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-%23121011?style=flat&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?style=flat&logo=jenkins&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-%2314354C?style=flat&logo=python&logoColor=white)
+
+---
+
+### 📌 My Projects
+
+- 🔹 **Mario Game on EKS using Jenkins CI/CD**
+  - Tools: Jenkins, Docker, EKS, GitHub, AWS
+  - GitHub Repo: [project_mario](https://github.com/saniyatalmale/project_mario)
+
+- 🔹 **Portfolio Website (Static Hosting on S3 + CloudFront)**
+  - Tools: HTML, S3, CloudFront, Route 53
+
+- 🔹 **Terraform AWS VPC Setup**
+  - Tools: Terraform, AWS VPC, Subnets, Security Groups
+
+---
+
+### 📊 GitHub Stats
+
+![Saniya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saniyatalmale&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saniyatalmale&layout=compact&theme=radical)
+
+---
+
+### 📫 Let’s Connect
+[LinkedIn](https://www.linkedin.com/in/saniyatalmale) | [GitHub](https://github.com/saniyatalmale) | Email: saniyatalmale@gmail.com
