@@ -54,7 +54,7 @@
 
 - 🔹 **Netflix Clone Deployment (Streaming App)**  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-DD0000?style=flat-square&logo=jenkins&logoColor=white)  
-  - GitHub Repo: [Project-Netflix-Clone](https://github.com/saniyatalmaler/Poject-Netflix-Clone)  
+  - GitHub Repo: [Project-Netflix-Clone](https://github.com/saniyatalmale/Project-Netflix-Clone)  
   - **Description:** Dockerized microservices for frontend, backend, and database deployed on AWS EKS with CI/CD automation using Jenkins.  
   - **Features:**  
     - Multi-service architecture (frontend, backend, DB)  
