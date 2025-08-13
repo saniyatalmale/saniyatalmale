@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Saniya Talmale</h1>
 <h3 align="center">Aspiring DevOps & Cloud Engineer | AWS | Linux | Terraform | Docker | Jenkins | GitHub | Kubernetes | Python</h3>
 
-- 🌱 I’m currently learning **AWS, DevOps Tools, Terraform, and Kubernetes**
-- 💼 Hands-on practice with **EC2, S3, IAM, EKS, Docker, Jenkins Pipelines**
-- 🛠️ I’m currently working on projects like **Mario Game Deployment on AWS EKS using Jenkins CI/CD**
-- 💡 I'm interested in building **production-ready DevOps pipelines**
-- 🔭 Looking for **internships or entry-level roles** in Cloud & DevOps
-- 👨‍💻 All my projects are available at [GitHub/saniyatalmale](https://github.com/saniyatalmale)
-- 📫 Reach me at: **saniyavtalmaleoutlook.com**
+- 🌱 I’m currently learning **AWS, DevOps Tools, Terraform, and Kubernetes**  
+- 💼 Hands-on practice with **EC2, S3, IAM, EKS, Docker, Jenkins Pipelines**  
+- 🛠️ I’m currently working on projects like **Mario Game Deployment on AWS EKS using Jenkins CI/CD**  
+- 💡 I'm interested in building **production-ready DevOps pipelines**  
+- 🔭 Looking for **internships or entry-level roles** in Cloud & DevOps  
+- 👨‍💻 All my projects are available at [GitHub/saniyatalmale](https://github.com/saniyatalmale)  
+- 📫 Reach me at: **saniyavtalmaleoutlook.com**  
 
 ---
 
@@ -26,8 +26,6 @@
 
 ### 📌 My Projects
 
----
-
 - 🔹 **Mario Game on EKS using Jenkins CI/CD**  
   ![Jenkins](https://img.shields.io/badge/Jenkins-DD0000?style=flat-square&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![EKS](https://img.shields.io/badge/EKS-4F4F4F?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
   - GitHub Repo: [Project-Super-Mario](https://github.com/saniyatalmale/Project-Super-Mario)  
@@ -37,8 +35,6 @@
     - Classic 2D platformer gameplay  
     - Player controls and obstacle interactions  
     - Dynamic animations and scoring system  
-
----
 
 - 🔹 **3-Tier StudentApp Deployment (Terraform & Docker)**  
   ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
@@ -50,8 +46,6 @@
     - Database integration with RDS  
     - Scalable and reliable infrastructure  
 
----
-
 - 🔹 **Netflix Clone Deployment (Streaming App)**  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-DD0000?style=flat-square&logo=jenkins&logoColor=white)  
   - GitHub Repo: [Project-Netflix-Clone](https://github.com/saniyatalmale/Project-Netflix-Clone)  
@@ -61,8 +55,6 @@
     - Streaming content features  
     - Automated CI/CD deployment  
     - Scalable via Kubernetes  
-
----
 
 - 🔹 **Three-Tier Application Deployment Using Docker**  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
@@ -74,18 +66,15 @@
     - Scalable and modular deployment  
     - CI/CD ready  
 
----
-
 - 🔹 **Myntra Clone Deployment**  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-DD0000?style=flat-square&logo=jenkins&logoColor=white)  
-  - GitHub Repo: [Myntra Clone Deployment](https://github.com/saniyatalmale/Project-Myntra-Clone)  
+  - GitHub Repo: [Project-Myntra-Clone](https://github.com/saniyatalmale/Project-Myntra-Clone)  
   - **Description:** Developed and deployed a Dockerized e-commerce application similar to Myntra. Implemented CI/CD pipeline with Jenkins for automated build, test, and deployment on AWS EKS.  
   - **Features:**  
     - E-commerce functionalities (product listing, cart, checkout)  
     - Multi-container Docker architecture  
     - Kubernetes-based deployment  
     - CI/CD pipeline for continuous updates  
-
 
 ---
 
@@ -94,7 +83,7 @@
 - [Breaking Down Kubernetes ☸ Architecture: A Guide for Newbies](#breaking-down-kubernetes-architecture-a-guide-for-newbies)  
 - [Docker 🐋 Networking Essentials: Boost Your Container Communication 🔁 Skills](#docker-networking-essentials-boost-your-container-communication-skills)  
 - [Streamline Your Cloud 🌩️ Storage Strategy with AWS S3](#streamline-your-cloud-storage-strategy-with-aws-s3)  
-- [Understanding Docker Exit ❌ Codes](#understanding-docker-exit-codes)
+- [Understanding Docker Exit ❌ Codes](#understanding-docker-exit-codes)  
 
 ---
 
@@ -110,13 +99,12 @@ Explore AWS S3 storage options, best practices, and lifecycle policies to optimi
 ### Understanding Docker Exit ❌ Codes
 A guide to Docker exit codes and troubleshooting container failures effectively.
 
-  
 ---
 
 ### 📊 GitHub Stats
 
-![Saniya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saniyatalmale&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saniyatalmale&layout=compact&theme=radical)
+![Saniya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saniyatalmale&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saniyatalmale&layout=compact&theme=radical)  
 
 ---
 
