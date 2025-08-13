@@ -46,4 +46,4 @@
 ---
 
 ### 📫 Let’s Connect
-[LinkedIn](https://www.linkedin.com/in/saniyatalmale) | [GitHub](https://github.com/saniyatalmale) | Email: saniyavtalmaleoutlook.com
+[LinkedIn](https://www.linkedin.com/in/saniya-talmale) | [GitHub](https://github.com/saniyatalmale) | Email: saniyavtalmaleoutlook.com
