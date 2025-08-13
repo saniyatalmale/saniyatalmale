@@ -26,21 +26,66 @@
 
 ### 📌 My Projects
 
-- 🔹 **Mario Game on EKS using Jenkins CI/CD**
-  - Tools: Jenkins, Docker, EKS, GitHub, AWS
-  - GitHub Repo: [project_mario](https://github.com/saniyatalmale/project_mario)
-    
-🔹 3-Tier StudentApp Deployment (Terraform & Docker)
-Tools: Terraform, Docker, AWS EC2/EKS, RDS (MariaDB)
-Description: Automated deployment of a 3-tier application with Dockerized frontend, backend, and RDS database using Terraform for Infrastructure as Code. The setup ensures scalability, reliability, and easy management on AWS.
+---
 
-🔹 Netflix Clone Deployment (Streaming App)
-Tools: Docker, Kubernetes (EKS), AWS, Jenkins, GitHub
-Description: Dockerized microservices for frontend, backend, and database deployed on AWS EKS with CI/CD automation using Jenkins.
+- 🔹 **Mario Game on EKS using Jenkins CI/CD**  
+  ![Jenkins](https://img.shields.io/badge/Jenkins-DD0000?style=flat-square&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![EKS](https://img.shields.io/badge/EKS-4F4F4F?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+  - GitHub Repo: [project_mario](https://github.com/saniyatalmale/Project-Super-Mario)  
+  - **Description:** A nostalgic game inspired by Super Mario, built to explore game development fundamentals and deployed on AWS EKS using a CI/CD pipeline.  
+  - **Technologies:** HTML5, CSS3, JavaScript  
+  - **Features:**  
+    - Classic 2D platformer gameplay  
+    - Player controls and obstacle interactions  
+    - Dynamic animations and scoring system  
 
-🔹 Three-Tier Application Deployment Using Docker
-Tools: Docker, AWS, EC2/EKS, RDS (MariaDB)
-Description: Deployed a 3-tier architecture application with separate Docker containers for frontend, backend, and database. Ensures modularity, scalability, and easy management of services on AWS.
+---
+
+- 🔹 **3-Tier StudentApp Deployment (Terraform & Docker)**  
+  ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
+  - GitHub Repo: [project_mario](https://github.com/saniyatalmale/Project-Studentapp_Updated)  
+  - **Description:** Automated deployment of a 3-tier application with Dockerized frontend, backend, and RDS database using Terraform for Infrastructure as Code. Ensures scalability, reliability, and easy management on AWS.  
+  - **Features:**  
+    - Dockerized microservices architecture  
+    - CI/CD automation ready  
+    - Database integration with RDS  
+    - Scalable and reliable infrastructure  
+
+---
+
+- 🔹 **Netflix Clone Deployment (Streaming App)**  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-DD0000?style=flat-square&logo=jenkins&logoColor=white)  
+  - GitHub Repo: [project_mario](https://github.com/saniyatalmale/Project-Netflix-Clone)  
+  - **Description:** Dockerized microservices for frontend, backend, and database deployed on AWS EKS with CI/CD automation using Jenkins.  
+  - **Features:**  
+    - Multi-service architecture (frontend, backend, DB)  
+    - Streaming content features  
+    - Automated CI/CD deployment  
+    - Scalable via Kubernetes  
+
+---
+
+- 🔹 **Three-Tier Application Deployment Using Docker**  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
+  - GitHub Repo: [project_mario](https://github.com/saniyatalmale/ThreeTier-Using-Docker)  
+  - **Description:** Deployed a 3-tier architecture application with separate Docker containers for frontend, backend, and database. Ensures modularity, scalability, and easy management of services on AWS.  
+  - **Features:**  
+    - Docker containerized services  
+    - Separate layers: frontend, backend, database  
+    - Scalable and modular deployment  
+    - CI/CD ready  
+
+---
+
+- 🔹 **Myntra Clone Deployment**  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-DD0000?style=flat-square&logo=jenkins&logoColor=white)  
+  - GitHub Repo: [project_mario](https://github.com/saniyatalmale/Project-Myntra-Clone)  
+  - **Description:** Developed and deployed a Dockerized e-commerce application similar to Myntra. Implemented CI/CD pipeline with Jenkins for automated build, test, and deployment on AWS EKS.  
+  - **Features:**  
+    - E-commerce functionalities (product listing, cart, checkout)  
+    - Multi-container Docker architecture  
+    - Kubernetes-based deployment  
+    - CI/CD pipeline for continuous updates  
+
 
 ---
 
