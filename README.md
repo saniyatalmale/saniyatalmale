@@ -29,12 +29,18 @@
 - 🔹 **Mario Game on EKS using Jenkins CI/CD**
   - Tools: Jenkins, Docker, EKS, GitHub, AWS
   - GitHub Repo: [project_mario](https://github.com/saniyatalmale/project_mario)
+    
+🔹 3-Tier StudentApp Deployment (Terraform & Docker)
+Tools: Terraform, Docker, AWS EC2/EKS, RDS (MariaDB)
+Description: Automated deployment of a 3-tier application with Dockerized frontend, backend, and RDS database using Terraform for Infrastructure as Code. The setup ensures scalability, reliability, and easy management on AWS.
 
-- 🔹 **Portfolio Website (Static Hosting on S3 + CloudFront)**
-  - Tools: HTML, S3, CloudFront, Route 53
+🔹 Netflix Clone Deployment (Streaming App)
+Tools: Docker, Kubernetes (EKS), AWS, Jenkins, GitHub
+Description: Dockerized microservices for frontend, backend, and database deployed on AWS EKS with CI/CD automation using Jenkins.
 
-- 🔹 **Terraform AWS VPC Setup**
-  - Tools: Terraform, AWS VPC, Subnets, Security Groups
+🔹 Three-Tier Application Deployment Using Docker
+Tools: Docker, AWS, EC2/EKS, RDS (MariaDB)
+Description: Deployed a 3-tier architecture application with separate Docker containers for frontend, backend, and database. Ensures modularity, scalability, and easy management of services on AWS.
 
 ---
 
