@@ -7,7 +7,7 @@
 - 💡 I'm interested in building **production-ready DevOps pipelines**
 - 🔭 Looking for **internships or entry-level roles** in Cloud & DevOps
 - 👨‍💻 All my projects are available at [GitHub/saniyatalmale](https://github.com/saniyatalmale)
-- 📫 Reach me at: **saniyatalmale@gmail.com**
+- 📫 Reach me at: **saniyavtalmaleoutlook.com**
 
 ---
 
@@ -46,4 +46,4 @@
 ---
 
 ### 📫 Let’s Connect
-[LinkedIn](https://www.linkedin.com/in/saniyatalmale) | [GitHub](https://github.com/saniyatalmale) | Email: saniyatalmale@gmail.com
+[LinkedIn](https://www.linkedin.com/in/saniyatalmale) | [GitHub](https://github.com/saniyatalmale) | Email: saniyavtalmaleoutlook.com
