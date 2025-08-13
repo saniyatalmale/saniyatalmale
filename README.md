@@ -86,31 +86,6 @@
     - Kubernetes-based deployment  
     - CI/CD pipeline for continuous updates  
 
-
----
-
-### 📝 Latest Blog Posts
-
-- [Breaking Down Kubernetes ☸ Architecture: A Guide for Newbies](#breaking-down-kubernetes-architecture-a-guide-for-newbies)  
-- [Docker 🐋 Networking Essentials: Boost Your Container Communication 🔁 Skills](#docker-networking-essentials-boost-your-container-communication-skills)  
-- [Streamline Your Cloud 🌩️ Storage Strategy with AWS S3](#streamline-your-cloud-storage-strategy-with-aws-s3)  
-- [Understanding Docker Exit ❌ Codes](#understanding-docker-exit-codes)
-
----
-
-### Breaking Down Kubernetes ☸ Architecture: A Guide for Newbies
-Dive into Kubernetes architecture and understand how pods, nodes, and clusters work together for scalable deployments.
-
-### Docker 🐋 Networking Essentials: Boost Your Container Communication 🔁 Skills
-Learn key Docker networking concepts and how to enable seamless communication between containers.
-
-### Streamline Your Cloud 🌩️ Storage Strategy with AWS S3
-Explore AWS S3 storage options, best practices, and lifecycle policies to optimize your cloud data management.
-
-### Understanding Docker Exit ❌ Codes
-A guide to Docker exit codes and troubleshooting container failures effectively.
-
-  
 ---
 
 ### 📊 GitHub Stats
