@@ -33,12 +33,11 @@ I am always exploring new technologies, improving deployment efficiency, and wor
 
 ---
 
-## 📝 Latest Blog Posts
+## 🚀 DevOps Showcase
 
-- [Breaking Down Kubernetes ☸ Architecture: A Guide for Newbies](https://www.linkedin.com/pulse/breaking-down-kubernetes-architecture-guide-newbies-abhipray-dhoble-t1wlc/?trackingId=ZHNsEZ3aRcKuC9oQ5xdJLw%3D%3D)
-- [Docker 🐋 Networking Essentials: Boost Your Container Communication 🔁 Skills](https://www.linkedin.com/pulse/docker-networking-essentials-boost-your-container-skills-dhoble-kmrjc/?trackingId=ZHNsEZ3aRcKuC9oQ5xdJLw%3D%3D)
-- [Streamline Your Cloud 🌩️ Storage Strategy with AWS S3](https://www.linkedin.com/pulse/streamline-your-cloud-storage-strategy-aws-s3-classes-abhipray-dhoble-8frcc?trackingId=WyDEGIUmTT6kRviuN0fGZw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BSTvtWpEGSjq9zkazyqsaPQ%3D%3D)
-- [Understanding Docker Exit ❌ Codes](https://www.linkedin.com/pulse/understanding-docker-exit-codesmastering-insights-flawless-dhoble-m5vlc?trackingId=WyDEGIUmTT6kRviuN0fGZw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BSTvtWpEGSjq9zkazyqsaPQ%3D%3D)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/772a360f-1235-4bb9-a40e-bae6e144c1fe" />
+</p>
 
 ---
 
