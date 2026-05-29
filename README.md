@@ -25,14 +25,6 @@ I am always exploring new technologies, improving deployment efficiency, and wor
 
 ---
 
-## 📊 GitHub Stats
-
-![Saniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=saniyatalmale&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saniyatalmale&layout=compact&theme=radical)
-
----
-
 ## 🌱 Contribution Graph
 
 <p align="center">
@@ -41,60 +33,48 @@ I am always exploring new technologies, improving deployment efficiency, and wor
 
 ---
 
+## 📝 Latest Blog Posts
+
+- [Breaking Down Kubernetes ☸ Architecture: A Guide for Newbies](https://www.linkedin.com/pulse/breaking-down-kubernetes-architecture-guide-newbies-abhipray-dhoble-t1wlc/?trackingId=ZHNsEZ3aRcKuC9oQ5xdJLw%3D%3D)
+- [Docker 🐋 Networking Essentials: Boost Your Container Communication 🔁 Skills](https://www.linkedin.com/pulse/docker-networking-essentials-boost-your-container-skills-dhoble-kmrjc/?trackingId=ZHNsEZ3aRcKuC9oQ5xdJLw%3D%3D)
+- [Streamline Your Cloud 🌩️ Storage Strategy with AWS S3](https://www.linkedin.com/pulse/streamline-your-cloud-storage-strategy-aws-s3-classes-abhipray-dhoble-8frcc?trackingId=WyDEGIUmTT6kRviuN0fGZw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BSTvtWpEGSjq9zkazyqsaPQ%3D%3D)
+- [Understanding Docker Exit ❌ Codes](https://www.linkedin.com/pulse/understanding-docker-exit-codesmastering-insights-flawless-dhoble-m5vlc?trackingId=WyDEGIUmTT6kRviuN0fGZw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BSTvtWpEGSjq9zkazyqsaPQ%3D%3D)
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🎮 Project Super Mario
-A 2D browser-based platformer game deployed using modern DevOps practices.
-
 - **Tech Stack**: HTML, CSS, JavaScript, Docker, Jenkins, AWS EKS  
-- **Highlights**:
-  - CI/CD pipeline automation using Jenkins
-  - Containerized deployment with Docker
-  - Hosted on AWS Kubernetes (EKS)
+- CI/CD pipeline automation with Jenkins  
+- Containerized deployment using Docker  
 
 ---
 
 ### 🏗️ 3-Tier Student Application (Terraform + Docker + AWS)
-A complete cloud-native 3-tier architecture project.
-
-- **Tech Stack**: Terraform, Docker, AWS (EC2, RDS, VPC)
-- **Highlights**:
-  - Infrastructure as Code (IaC) using Terraform
-  - Microservices-based architecture
-  - Scalable deployment on AWS cloud
+- **Tech Stack**: Terraform, Docker, AWS (EC2, RDS, VPC)  
+- Infrastructure as Code (IaC) using Terraform  
+- Scalable cloud-native architecture  
 
 ---
 
 ### 🎬 Netflix Clone Deployment
-A scalable streaming-style web application.
-
-- **Tech Stack**: React, Docker, Kubernetes, Jenkins, AWS EKS
-- **Highlights**:
-  - CI/CD automation pipeline
-  - Kubernetes-based deployment
-  - Microservices architecture
+- **Tech Stack**: React, Docker, Kubernetes, Jenkins, AWS EKS  
+- CI/CD automation pipeline  
+- Microservices-based architecture  
 
 ---
 
 ### 🛍️ Myntra Clone Deployment
-An e-commerce platform deployed using DevOps pipeline.
-
-- **Tech Stack**: Docker, Kubernetes, Jenkins, AWS
-- **Highlights**:
-  - End-to-end CI/CD automation
-  - Containerized microservices
-  - Scalable cloud deployment
+- Docker + Kubernetes + Jenkins + AWS  
+- End-to-end CI/CD automation  
+- Scalable e-commerce deployment  
 
 ---
 
 ### 🏗️ Three Tier Docker Project
-A modular 3-tier application using Docker containers.
-
-- **Tech Stack**: Docker, AWS
-- **Highlights**:
-  - Separate frontend, backend, database containers
-  - Easy scalability and maintenance
-  - Cloud deployment ready
+- Docker-based frontend, backend, database  
+- Cloud-ready modular architecture  
 
 ---
 
@@ -106,4 +86,4 @@ A modular 3-tier application using Docker containers.
 
 ---
 
-🚀 *"I believe in automation, scalability, and building cloud systems that solve real-world problems efficiently."*
+🚀 *"Automation, scalability, and cloud-native engineering are at the core of everything I build."*
